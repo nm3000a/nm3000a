@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nm3000a
 - I’m currently learning lisp.
-- C and Julia
+- Mostly program in Julia and sometimes C.
 - How to reach me name@ gmail
 - India
 
